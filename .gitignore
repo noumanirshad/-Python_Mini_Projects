@@ -1,3 +1,9 @@
 /newlog.log
 *.log
-nouman/ 
+nouman/
+Docs/
+Media/
+others/
+images/
+Ai_files/
+Automatic folder cleaner/
